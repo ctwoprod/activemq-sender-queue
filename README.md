@@ -1,1 +1,1 @@
-Spring Boot - Activemq Example Receive Queue
+Spring Boot - Activemq Example Send Queue
